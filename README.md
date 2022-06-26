@@ -31,7 +31,7 @@ Some accomplishments we're proud of are using the Google Cloud Platform to load 
 ## What we learned :book:
 In creating this project, we learned how to use HTML and CSS together to create a website that not only looks good but also performs functionally. We also learned how to properly integrate the Maps API onto our website using Javascript and HTML.
 ## What's next for Iceium :shaved_ice:
-Our team is looking to expanding the functions of this website potentially allowing users to have more options within the website to find their favorite ice cream shops.
+Creating a means of getting user-data to quere Google Maps API w/ JavaScript (nodeJS/nextJS?)
 ## Authors :sparkling_heart:
 
 - [@zhihahnsee](https://github.com/zhihahnsee)
